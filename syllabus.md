@@ -207,7 +207,7 @@ Los alumnos, por equipos, desarrollarán un producto mínimo viable mediante un 
 
 #### Objetivos de aprendizaje ####
 
-- Aprender a trabajaar en equipo de manera eficaz y eficiente.
+- Aprender a trabajar en equipo de manera eficaz y eficiente.
 - Conocer y aplicar las metodologías de trabajo más extendidas en el desarrollo de software.
 - Aprender a construír un entorno de desarrollo con CI/CD.
 
